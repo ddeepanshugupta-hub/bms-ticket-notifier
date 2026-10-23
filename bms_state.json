@@ -1,10 +1,67 @@
 {
-  "shows": {},
+  "shows": {
+    "PRHN|258050|20261105|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "07:45 AM",
+      "date": "20261105",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "1"
+    },
+    "PRHN|258052|20261105|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "03:25 PM",
+      "date": "20261105",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "1"
+    },
+    "PRHN|258054|20261105|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:05 PM",
+      "date": "20261105",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "1"
+    },
+    "ALUC|6405|20261105|3D PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:20 AM",
+      "date": "20261105",
+      "cat": "3D PLATINUM",
+      "price": "390.00",
+      "status": "0"
+    },
+    "ALUC|6405|20261105|3D GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:20 AM",
+      "date": "20261105",
+      "cat": "3D GOLD",
+      "price": "335.00",
+      "status": "2"
+    },
+    "ALUC|6407|20261105|3D PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:20 PM",
+      "date": "20261105",
+      "cat": "3D PLATINUM",
+      "price": "390.00",
+      "status": "0"
+    },
+    "ALUC|6407|20261105|3D GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:20 PM",
+      "date": "20261105",
+      "cat": "3D GOLD",
+      "price": "335.00",
+      "status": "2"
+    }
+  },
   "dates": {
     "20261105": "BOOKABLE",
-    "20261106": "NOT_OPEN",
-    "20261107": "NOT_OPEN",
-    "20261108": "NOT_OPEN",
+    "20261106": "AVAILABLE",
+    "20261107": "AVAILABLE",
+    "20261108": "AVAILABLE",
     "20261109": "NOT_OPEN",
     "20261110": "NOT_OPEN",
     "20261111": "NOT_OPEN"
